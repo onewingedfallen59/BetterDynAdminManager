@@ -11,7 +11,7 @@ Installation
  * Install Grease Monkey extension : https://addons.mozilla.org/fr/firefox/addon/greasemonkey/
  * Go to this url : https://raw.githubusercontent.com/jc7447/bda/master/bda.user.js
  * Accept installation 
- * Go to this url : https://raw.githubusercontent.com/onewingedfallen59/BetterDynAdminManager/master/bdam.js
+ * Go to this url : https://raw.githubusercontent.com/onewingedfallen59/BetterDynAdminManager/master/bdam.user.js
  * Accept installation 
  * Enjoy :)
  
@@ -22,7 +22,7 @@ If you're not happy with BDA behaviour, you can simply disable it by clicking on
 * Install Tampermonkey extension : https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 * Go to this url : https://raw.githubusercontent.com/jc7447/bda/master/bda.user.js
 * Accept installation 
-* Go to this url : https://raw.githubusercontent.com/onewingedfallen59/BetterDynAdminManager/master/bdam.js
+* Go to this url : https://raw.githubusercontent.com/onewingedfallen59/BetterDynAdminManager/master/bdam.user.js
 * Accept installation 
 * Enjoy :)
 
